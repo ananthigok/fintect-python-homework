@@ -1,0 +1,7 @@
+The total number of months included in the dataset is 86 
+The total profit is $44842120 
+The total loss is $-7327426 
+The net total amount of Profit/Losses over the entire period is $37514694 
+The average of the changes in Profit/Losses over the entire period is  $559809.49 
+Greatest Increase in Profits: Feb-2012 $1170593 
+Greatest Decrease in Losses: Apr-2010  $-69417 
