@@ -41,7 +41,7 @@ In each Jupyter Notebook, created the same custom LSTM RNN architecture. In one 
 
 Used the same parameters and training steps for each model.
 
-### Evaluate the performance of each model
+### Evaluated the performance of each model
 
 Finally, used the testing data to evaluate each model and compare the performance.
 
