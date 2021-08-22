@@ -52,7 +52,7 @@ From the above answered the following:
 > Which model tracks the actual values better over time?
 
 > Which window size works best for the model?
-To determine the model that works best, the window size was altered and the data inferred was saved in ![Analysis.csv](Starter_Code/Analysis.csv) which is located in the same folder as the python files.
+To determine the model that works best, the window size was altered and the data inferred was saved in [Analysis.csv](Starter_Code/Analysis.csv) which is located in the same folder as the python files.
 - - -
 
 ### Resources
